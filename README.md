@@ -1,12 +1,21 @@
-# SQL-PEDIDO_CLIENTE
+# SQL - Pedido e Cliente
 
-APLICANDO ATIVIDADE SOBRE BANCO DE DADOS, DO IFRS CAMPUS FARROUPILHA(SEGUNDO SEMESTRE)
+Este projeto foi desenvolvido como atividade da disciplina de Banco de Dados do IFRS - Campus Farroupilha (Segundo Semestre), sob orientação do professor Maicon.
 
-DISCIPLINA DE BANCO DE DADOS
-PROFESSOR: MAICON
+## Descrição
+O objetivo do projeto foi criar tabelas relacionadas a **clientes, pedidos e produtos**, aplicando conceitos de:  
+- `VARCHAR`  
+- `NUMBER`  
+- `CONSTRAINT`  
+- `CREATE TABLE`  
 
-CRIANDO UMA TABELA CLIENTE, COM PEDIDO E PRODUTO. UTILIZANDO CONCEITOS DE VARCHAR, NUMBER, CONSTRAINT E CREATE TABLE
+Foram utilizadas relações básicas entre tabelas para simular um pequeno sistema de pedidos.
 
-<img width="972" height="705" alt="image" src="https://github.com/user-attachments/assets/e74ae66e-f85c-4564-8d4e-ede62d6e5634" />
+## Ferramentas utilizadas
+- **Oracle APEX**: plataforma utilizada para criar, editar e salvar tabelas dinâmicas em SQL.
 
-PARA ISSO FOI UTILIZADO O APEX ORACLE, PLATAFORMA QUE PODE SER UTILIZADA PARA CRIAR E SALVAR TABELAS DINAMICAS EM SQL
+## Observação
+O projeto serve como prática para consolidar conhecimentos em modelagem de dados e construção de tabelas relacionais em SQL.
+
+## Imagem do Projeto
+![Exemplo de Tabela SQL](https://github.com/user-attachments/assets/e74ae66e-f85c-4564-8d4e-ede62d6e5634)
